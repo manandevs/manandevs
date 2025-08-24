@@ -15,9 +15,16 @@
     </td>
   </tr>
 </table>
-<div style="max-width: 500px; word-wrap: break-word; overflow-wrap: break-word; margin: 0 auto;" align="center">
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I'm+Abdul+Manan!;Developer+%26+Designer;Learning+%26+Building" alt="Typing SVG" /></a>
-</div>
+<!-- <div  align="center">
+<a align="center" href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Hey%2C+I'm+Abdul+Manan!;Developer+%26+Designer;Learning+%26+Building" alt="Typing SVG" align="center" /></a>
+</div> -->
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=%2300C49F&center=true&vCenter=true&width=1600&lines=Crafting+simple+solutions+for+complex+problems;Curious%2C+kind%2C+committed+to+quality;Let%27s+build+something+people+love" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <b>
@@ -29,46 +36,36 @@
     and modern web design strategies.
   </b>
   <br>
-  <i>Abdul Manan – Creative Frontend Developer focused on responsive, animated, and elegant web experiences.</i>
+  <i>Creative Frontend Developer focused on responsive, animated, and elegant web experiences.</i>
 </p>
 
 ###
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/dea8dbd4-de71-49c4-bee0-9b6e516e5249" height="84" alt="HTML logo" />
-  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/dea8dbd4-de71-49c4-bee0-9b6e516e5249" height="45" alt="HTML logo" />
 
-  <img src="https://github.com/user-attachments/assets/98dd073c-a871-4cad-a8a6-72fb1a6a9e00" height="84" alt="CSS logo" />
-  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/98dd073c-a871-4cad-a8a6-72fb1a6a9e00" height="46" alt="CSS logo" />
 
-  <img src="https://github.com/user-attachments/assets/3259f38c-aeb1-4070-8616-7c922d9167a5" height="84" alt="JavaScript logo" />
-  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/3259f38c-aeb1-4070-8616-7c922d9167a5" height="50" alt="JavaScript logo" />
 
-  <img src="https://github.com/user-attachments/assets/c4e6f685-00aa-444c-8eb5-d0f7f87b4bc3" width="255" height="198" alt="three js" />
-  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/c4e6f685-00aa-444c-8eb5-d0f7f87b4bc3" width="150" height="198" alt="three js" />
 
-  <img src="https://github.com/user-attachments/assets/e974b25d-fb9c-4912-ae9f-350f86081d3d" height="84" alt="TypeScript logo" />
-  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/e974b25d-fb9c-4912-ae9f-350f86081d3d" height="50" alt="TypeScript logo" />
 
-  <img src="https://github.com/user-attachments/assets/cc3b3ebc-45a6-42f4-90d8-bf9ffa4b6ff4" height="84" alt="Tailwind CSS logo" />
-  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/cc3b3ebc-45a6-42f4-90d8-bf9ffa4b6ff4" height="50" alt="Tailwind CSS logo" />
 
-  <img src="https://github.com/user-attachments/assets/d482ee2b-1433-48dd-912b-b27de3e50946" height="84" alt="Bootstrap logo" />
+  <img src="https://github.com/user-attachments/assets/d482ee2b-1433-48dd-912b-b27de3e50946" height="50" alt="Bootstrap logo" />
 
   <br />
 
-  <img src="https://github.com/user-attachments/assets/c0eb0328-a627-419d-a77a-66de0107d7af" height="84" alt="Logo 5 (missing alt)" />
-  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/c0eb0328-a627-419d-a77a-66de0107d7af" height="50" alt="Logo 5 (missing alt)" />
 
-  <img src="https://github.com/user-attachments/assets/5de92da7-53c1-4623-a857-6e7ead45ce6f" height="84" alt="MongoDB / GraphQL logo" />
-  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/5de92da7-53c1-4623-a857-6e7ead45ce6f" height="50" alt="MongoDB / GraphQL logo" />
 
-  <img src="https://github.com/user-attachments/assets/55f8065c-5b31-4135-8b73-a453f867901f" height="84" alt="Next.js logo" />
-  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/55f8065c-5b31-4135-8b73-a453f867901f" height="50" alt="Next.js logo" />
 
-  <img src="https://github.com/user-attachments/assets/7f6b5ac5-c9ad-464d-8ec4-b9c71827aa9a" height="84" alt="React logo" />
-  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/7f6b5ac5-c9ad-464d-8ec4-b9c71827aa9a" height="50" alt="React logo" />
 
-  <img src="https://github.com/user-attachments/assets/fc0e209d-3c5c-48f6-aeb7-a459f05e3805" height="84" alt="Figma logo" />
+  <img src="https://github.com/user-attachments/assets/fc0e209d-3c5c-48f6-aeb7-a459f05e3805" height="50" alt="Figma logo" />
 
 <!-- 
   <div align="center">
