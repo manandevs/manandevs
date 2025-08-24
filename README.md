@@ -9,7 +9,7 @@
     <td align="left"><i>Hey there, I’m Abdul Manan!</i></td>
     <td width="50"></td>
     <td align="right">
-      <a href="https://manandevs.vercel.app/" target="_blank">
+      <a href="https://manandevs.vercel.app/" target="_blank"  rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ff5733?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio Button"/>
       </a>
     </td>
@@ -19,8 +19,8 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=%23FF5733&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Abdul+Manan!;Creative+Frontend+Developer;React+%7C+Next.js+%7C+GSAP+Enthusiast;Crafting+Clean%2C+User-Friendly+Web+Experiences" alt="Typing SVG" />
+  <a href="#">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=%23FF5733&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Abdul+Manan!;Passionate+Frontend+Developer+%26+Designer;React.js+%7C+Next.js+%7C+Three.js+%7C+GSAP;Transforming+Ideas+Into+Interactive+Experiences;Always+Learning+%26+Building+For+Impact" alt="Typing SVG" />
   </a>
 </p>
 
@@ -82,14 +82,26 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://www.linkedin.com/in/manan-devs/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+ <!--
+   <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.gg/yourdiscord" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://twitch.tv/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  </a>
+  <a href="https://dev.to/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
+  -->
 </div>
+
 
 ###
 <!-- Tech Stack & Tools -->
@@ -345,6 +357,7 @@ mindmap
 -->
 
 <!-- Help by Donating -->
+<!--
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=%23FF4500&center=true&vCenter=true&width=600&lines=You+can+help+me+by+Donating;Support+my+work;Keep+the+projects+alive" alt="Typing SVG" />
@@ -364,6 +377,7 @@ mindmap
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
   </a>
 </div>
+-->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=115&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
