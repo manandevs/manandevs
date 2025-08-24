@@ -1,17 +1,43 @@
-
+<!--
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c4a7cfc1-3e2c-4967-97f6-c5fea782184c" width="100%" height="auto" style="max-width:700px; border-radius:16px; margin-bottom:20px;" />
 </p>
-
+  -->
 <!-- Intro -->
-<h1 align="center">
+<table align="center">
+  <tr>
+    <td align="left"><i>Hey there, I’m Abdul Manan!</i></td>
+    <td width="50"></td>
+    <td align="right">
+      <a href="https://manandevs.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ff5733?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio Button"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=%23FF5733&center=true&vCenter=true&width=600&lines=Hey++What's+Up%3F;I'm+Abdul+Manan;Frontend+Developer;Passionate+about+Next.js+%26+React.js;Learning+Three.js+%26+GraphQL;Always+building+cool+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=%23FF5733&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Abdul+Manan!;Creative+Frontend+Developer;React+%7C+Next.js+%7C+GSAP+Enthusiast;Crafting+Clean%2C+User-Friendly+Web+Experiences" alt="Typing SVG" />
   </a>
-</h1>
+</p>
+
+<p align="center">
+  <b>
+    Building clean, user-friendly websites with
+    <span style="color:#61dafb;">React</span>,
+    <span style="color:#000;">Next.js</span>,
+    <span style="color:#88ce02;">GSAP</span>,
+    <span style="color:#e10098;">Tailwind CSS</span>,
+    and modern web design strategies.
+  </b>
+  <br>
+  <i>Abdul Manan – Creative Frontend Developer focused on responsive, animated, and elegant web experiences.</i>
+</p>
 
 ###
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/dea8dbd4-de71-49c4-bee0-9b6e516e5249" height="84" alt="HTML logo" />
   <img width="12" />
@@ -67,6 +93,7 @@
 
 ###
 <!-- Tech Stack & Tools -->
+<!--
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=%2300C49F&center=true&vCenter=true&width=600&lines=Tech+Stack+%26+Tools;Frontend+%E2%80%A2+Backend+%E2%80%A2+UI%2FUX;React+%2B+Next.js+%2B+TypeScript" alt="Typing SVG" />
@@ -208,18 +235,22 @@
 </tr>
 </table>
 </div>
+
+-->
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/kQ3FSVoJrkYWk/giphy.gif" width="100%" height="auto" alt="Giphy animation" />
   <br/>
 </p>
+-->
 <!-- Socials -->
+<!--
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=%236A5ACD&center=true&vCenter=true&width=600&lines=Socials;Connect+With+Me;Let's+Build+Together" alt="Typing SVG" />
   </a>
 </h1>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; max-width: 900px; margin: 0 auto;">
-  <!-- First row (max 7 icons) -->
   <a href="https://behance.net/#" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
   <a href="https://discord.gg/#" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
   <a href="https://facebook.com/#" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
@@ -230,7 +261,6 @@
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; max-width: 900px; margin: 0 auto; margin-top: 8px;">
-  <!-- Second row (remaining icons) -->
   <a href="https://quora.com/profile/#" target="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" /></a>
   <a href="https://reddit.com/user/#" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/#" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
@@ -242,7 +272,7 @@
   <a href="https://mastodon.social/@#" target="_blank"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white" /></a>
   <a href="mailto:#" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </div>
-
+-->
 <!-- Professional Focus Areas -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -303,6 +333,7 @@ mindmap
 </table>
 
 <!--Contribution Activity -->
+<!--
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=%230EA5E9&center=true&vCenter=true&width=700&lines=Contribution+Activity;Daily+Commits+%E2%80%A2+Open+Source;Streaks+%26+Top+Languages" alt="Typing SVG" />
@@ -311,6 +342,7 @@ mindmap
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manandevs&theme=light&hide_border=true&bg_color=FFFFFF&color=00BFFF&line=00BFFF&point=FF6B6B" alt="Activity Graph" width="100%"/>
 </div>
+-->
 
 <!-- Help by Donating -->
 <h1 align="center">
