@@ -15,14 +15,9 @@
     </td>
   </tr>
 </table>
-
-
-
-<p align="center">
-  <a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=%23FF5733&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Abdul+Manan!;Passionate+Frontend+Developer+%26+Designer;React.js+%7C+Next.js+%7C+Three.js+%7C+GSAP;Transforming+Ideas+Into+Interactive+Experiences;Always+Learning+%26+Building+For+Impact" alt="Typing SVG" />
-  </a>
-</p>
+<div style="max-width: 500px; word-wrap: break-word; overflow-wrap: break-word; margin: 0 auto;" align="center">
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I'm+Abdul+Manan!;Developer+%26+Designer;Learning+%26+Building" alt="Typing SVG" /></a>
+</div>
 
 <p align="center">
   <b>
@@ -75,10 +70,12 @@
 
   <img src="https://github.com/user-attachments/assets/fc0e209d-3c5c-48f6-aeb7-a459f05e3805" height="84" alt="Figma logo" />
 
+<!-- 
   <div align="center">
     <img src="https://github.com/user-attachments/assets/c57b8131-b964-44c4-a96b-f01ea86b865e" width="400" height="210" alt="image" />
     <img src="https://github.com/user-attachments/assets/975f5ed5-1967-4f3e-a3a3-d41d3d32804c" width="400" height="210" alt="image" />
   </div>
+-->
 </div>
 
 ###
