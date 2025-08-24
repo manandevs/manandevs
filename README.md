@@ -20,11 +20,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Hey%2C+I'm+Abdul+Manan!;Developer+%26+Designer;Learning+%26+Building" alt="Typing SVG" align="center" /></a>
 </div> -->
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=%2300C49F&center=true&vCenter=true&width=1600&lines=Crafting+simple+solutions+for+complex+problems;Curious%2C+kind%2C+committed+to+quality;Let%27s+build+something+people+love" alt="Typing SVG" />
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=34&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=1600&height=140&lines=💻+Frontend+Developer+%7C+🎨+UI%2FUX+Designer;🚀+Transforming+Ideas+into+Reality;✨+Crafting+Clean+%26+User-Friendly+Experiences)](https://git.io/typing-svg)
+
 
 <p align="center">
   <b>
