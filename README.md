@@ -277,12 +277,12 @@
 </div>
 -->
 <!-- Professional Focus Areas -->
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=%23FF1493&center=true&vCenter=true&width=600&lines=Professional+Focus+Areas;Frontend+%26+UI%2FUX;3D+Web+%26+Backend+Development" alt="Typing SVG" />
   </a>
-</h1>
-<div align="center">
+</h1> -->
+<!-- <div align="center">
 
 ```mermaid
 mindmap
@@ -313,10 +313,10 @@ mindmap
         Problem Solving
         Team Collaboration
 ```
-</div>
+</div> -->
 
 <!-- GitHub Stats -->
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=%23FFA500&center=true&vCenter=true&width=600&lines=GitHub+Stats;Committed+to+Open+Source;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
@@ -333,7 +333,7 @@ mindmap
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manandevs&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="100%"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!--Contribution Activity -->
 <!--
