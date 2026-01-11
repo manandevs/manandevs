@@ -9,7 +9,7 @@
     <td align="left"><i>Hey there, I’m Abdul Manan!</i></td>
     <td width="50"></td>
     <td align="right">
-      <a href="https://manandevs.vercel.app/" target="_blank"  rel="noopener noreferrer">
+      <a href="https://manandevsportfolio.vercel.app/" target="_blank"  rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ff5733?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio Button"/>
       </a>
     </td>
